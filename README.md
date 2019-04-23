@@ -1,6 +1,6 @@
 # Project Airhorn
 
-In memory of the wonderful times we had with beloved Philipp Doms at Red Bull Media House.
+In memory of the wonderful times we had with beloved Philipp Doms at ~~Red Bull Media House~~ Fredmansky.
 
 All the best for your new adventures!
 
@@ -8,21 +8,16 @@ All the best for your new adventures!
 
 ## Contributions
 
+See the original version over at [lukasziegler/airhorn](https://github.com/lukasziegler/airhorn).
+
 created by
 
-* Philipp Hieslmair
-* Lukas Ziegler
+* Frederic Köberl
+* Isabella Fahrner
 
 with audio contributions from
 
-* Niki Guttmann
-* Manuel Gutjahr
-* Iris Dagci
-* Wolfgang Schmirl
-* George Giannoulis
-* Esa Hiltunen
-* Stavros Vougioukas
-* Antonio Librada
+
 * and many more
 
 ---
@@ -55,7 +50,7 @@ dependencies from others
 more ideas
 
 - [x] add JS build process
-- [ ] click on an already playing gif stops it and the music
+- [x] click on an already playing gif stops it and the music
 - [ ] favicon, manifest, meta & theme-color
 - [ ] send custom analytics
 - [ ] migrate to (p)react
