@@ -17,6 +17,12 @@ created by
 
 with audio contributions from
 
+* Hubert
+* Susi Lausch
+* Ino Karning
+* David Hellmann
+* Christoph DJ Paster
+* L2 Kaffeemaschine 
 
 * and many more
 
