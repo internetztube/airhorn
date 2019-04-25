@@ -43,7 +43,7 @@ html(lang='en')
             audio
               source(src="media/grafiker/audio.mp3")
           .card__overlay
-            .card__overlay-title Grafiker
+            .card__overlay-title Büro
 
 
         .card(onclick="start(event)")
@@ -119,6 +119,25 @@ html(lang='en')
               source(src="media/deprezina/audio.mp3")
           .card__overlay
             .card__overlay-title Debreziner
+
+        .card(onclick="start(event)")
+          .card__giphy.card__giphy--cover
+            video.card__giphy-gif(loop playsinline)
+              source(src="media/loch-im-bauch/giphy.mp4" type="video/mp4")
+            audio
+              source(src="media/loch-im-bauch/audio.mp3")
+          .card__overlay
+            .card__overlay-title Loch im Bauch
+
+        .card(onclick="start(event)")
+          .card__giphy.card__giphy--cover
+            video.card__giphy-gif(loop playsinline)
+              source(src="media/mehr-geld/giphy.mp4" type="video/mp4")
+            audio
+              source(src="media/mehr-geld/audio.mp3")
+          .card__overlay
+            .card__overlay-title 💸
+
 
     .audio-samples
       audio#23
